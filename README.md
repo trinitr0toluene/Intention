@@ -1,2 +1,2 @@
 # Intention
-Implement of Intentonomy
+Intent Recognition
